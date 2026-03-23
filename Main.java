@@ -5,7 +5,7 @@ public class Main {
         Library lib = new Library();
 
         while (true) {
-
+            System.out.println("penis");
             // Advance time
             lib.currentDay = lib.currentDay + 1;
             System.out.println("\n--- Day " + lib.currentDay + " ---");
